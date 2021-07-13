@@ -14,7 +14,7 @@ import javax.jms.TextMessage;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;
 
-public class TesteConsumidor {
+public class TesteConsumidorFila {
 	
 	public static void main (String args []) throws NamingException, JMSException {
 		
